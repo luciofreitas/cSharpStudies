@@ -1,0 +1,15 @@
+C:\Users\lucio\OneDrive\Área de Trabalho\cSharpStudies\AreaTerreno\AreaTerreno\bin\Debug\net6.0\AreaTerreno.exe
+C:\Users\lucio\OneDrive\Área de Trabalho\cSharpStudies\AreaTerreno\AreaTerreno\bin\Debug\net6.0\AreaTerreno.deps.json
+C:\Users\lucio\OneDrive\Área de Trabalho\cSharpStudies\AreaTerreno\AreaTerreno\bin\Debug\net6.0\AreaTerreno.runtimeconfig.json
+C:\Users\lucio\OneDrive\Área de Trabalho\cSharpStudies\AreaTerreno\AreaTerreno\bin\Debug\net6.0\AreaTerreno.dll
+C:\Users\lucio\OneDrive\Área de Trabalho\cSharpStudies\AreaTerreno\AreaTerreno\bin\Debug\net6.0\AreaTerreno.pdb
+C:\Users\lucio\OneDrive\Área de Trabalho\cSharpStudies\AreaTerreno\AreaTerreno\obj\Debug\net6.0\AreaTerreno.csproj.AssemblyReference.cache
+C:\Users\lucio\OneDrive\Área de Trabalho\cSharpStudies\AreaTerreno\AreaTerreno\obj\Debug\net6.0\AreaTerreno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucio\OneDrive\Área de Trabalho\cSharpStudies\AreaTerreno\AreaTerreno\obj\Debug\net6.0\AreaTerreno.AssemblyInfoInputs.cache
+C:\Users\lucio\OneDrive\Área de Trabalho\cSharpStudies\AreaTerreno\AreaTerreno\obj\Debug\net6.0\AreaTerreno.AssemblyInfo.cs
+C:\Users\lucio\OneDrive\Área de Trabalho\cSharpStudies\AreaTerreno\AreaTerreno\obj\Debug\net6.0\AreaTerreno.csproj.CoreCompileInputs.cache
+C:\Users\lucio\OneDrive\Área de Trabalho\cSharpStudies\AreaTerreno\AreaTerreno\obj\Debug\net6.0\AreaTerreno.dll
+C:\Users\lucio\OneDrive\Área de Trabalho\cSharpStudies\AreaTerreno\AreaTerreno\obj\Debug\net6.0\refint\AreaTerreno.dll
+C:\Users\lucio\OneDrive\Área de Trabalho\cSharpStudies\AreaTerreno\AreaTerreno\obj\Debug\net6.0\AreaTerreno.pdb
+C:\Users\lucio\OneDrive\Área de Trabalho\cSharpStudies\AreaTerreno\AreaTerreno\obj\Debug\net6.0\AreaTerreno.genruntimeconfig.cache
+C:\Users\lucio\OneDrive\Área de Trabalho\cSharpStudies\AreaTerreno\AreaTerreno\obj\Debug\net6.0\ref\AreaTerreno.dll

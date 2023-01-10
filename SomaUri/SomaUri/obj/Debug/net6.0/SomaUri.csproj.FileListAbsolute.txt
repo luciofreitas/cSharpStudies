@@ -1,0 +1,15 @@
+C:\Users\lucio\OneDrive\Área de Trabalho\cSharpStudies\SomaUri\SomaUri\bin\Debug\net6.0\SomaUri.exe
+C:\Users\lucio\OneDrive\Área de Trabalho\cSharpStudies\SomaUri\SomaUri\bin\Debug\net6.0\SomaUri.deps.json
+C:\Users\lucio\OneDrive\Área de Trabalho\cSharpStudies\SomaUri\SomaUri\bin\Debug\net6.0\SomaUri.runtimeconfig.json
+C:\Users\lucio\OneDrive\Área de Trabalho\cSharpStudies\SomaUri\SomaUri\bin\Debug\net6.0\SomaUri.dll
+C:\Users\lucio\OneDrive\Área de Trabalho\cSharpStudies\SomaUri\SomaUri\bin\Debug\net6.0\SomaUri.pdb
+C:\Users\lucio\OneDrive\Área de Trabalho\cSharpStudies\SomaUri\SomaUri\obj\Debug\net6.0\SomaUri.csproj.AssemblyReference.cache
+C:\Users\lucio\OneDrive\Área de Trabalho\cSharpStudies\SomaUri\SomaUri\obj\Debug\net6.0\SomaUri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucio\OneDrive\Área de Trabalho\cSharpStudies\SomaUri\SomaUri\obj\Debug\net6.0\SomaUri.AssemblyInfoInputs.cache
+C:\Users\lucio\OneDrive\Área de Trabalho\cSharpStudies\SomaUri\SomaUri\obj\Debug\net6.0\SomaUri.AssemblyInfo.cs
+C:\Users\lucio\OneDrive\Área de Trabalho\cSharpStudies\SomaUri\SomaUri\obj\Debug\net6.0\SomaUri.csproj.CoreCompileInputs.cache
+C:\Users\lucio\OneDrive\Área de Trabalho\cSharpStudies\SomaUri\SomaUri\obj\Debug\net6.0\SomaUri.dll
+C:\Users\lucio\OneDrive\Área de Trabalho\cSharpStudies\SomaUri\SomaUri\obj\Debug\net6.0\refint\SomaUri.dll
+C:\Users\lucio\OneDrive\Área de Trabalho\cSharpStudies\SomaUri\SomaUri\obj\Debug\net6.0\SomaUri.pdb
+C:\Users\lucio\OneDrive\Área de Trabalho\cSharpStudies\SomaUri\SomaUri\obj\Debug\net6.0\SomaUri.genruntimeconfig.cache
+C:\Users\lucio\OneDrive\Área de Trabalho\cSharpStudies\SomaUri\SomaUri\obj\Debug\net6.0\ref\SomaUri.dll

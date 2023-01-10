@@ -1,0 +1,15 @@
+C:\Users\lucio\OneDrive\Área de Trabalho\cSharpStudies\AreaRetangulo\AreaRetangulo\bin\Debug\net6.0\AreaRetangulo.exe
+C:\Users\lucio\OneDrive\Área de Trabalho\cSharpStudies\AreaRetangulo\AreaRetangulo\bin\Debug\net6.0\AreaRetangulo.deps.json
+C:\Users\lucio\OneDrive\Área de Trabalho\cSharpStudies\AreaRetangulo\AreaRetangulo\bin\Debug\net6.0\AreaRetangulo.runtimeconfig.json
+C:\Users\lucio\OneDrive\Área de Trabalho\cSharpStudies\AreaRetangulo\AreaRetangulo\bin\Debug\net6.0\AreaRetangulo.dll
+C:\Users\lucio\OneDrive\Área de Trabalho\cSharpStudies\AreaRetangulo\AreaRetangulo\bin\Debug\net6.0\AreaRetangulo.pdb
+C:\Users\lucio\OneDrive\Área de Trabalho\cSharpStudies\AreaRetangulo\AreaRetangulo\obj\Debug\net6.0\AreaRetangulo.csproj.AssemblyReference.cache
+C:\Users\lucio\OneDrive\Área de Trabalho\cSharpStudies\AreaRetangulo\AreaRetangulo\obj\Debug\net6.0\AreaRetangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucio\OneDrive\Área de Trabalho\cSharpStudies\AreaRetangulo\AreaRetangulo\obj\Debug\net6.0\AreaRetangulo.AssemblyInfoInputs.cache
+C:\Users\lucio\OneDrive\Área de Trabalho\cSharpStudies\AreaRetangulo\AreaRetangulo\obj\Debug\net6.0\AreaRetangulo.AssemblyInfo.cs
+C:\Users\lucio\OneDrive\Área de Trabalho\cSharpStudies\AreaRetangulo\AreaRetangulo\obj\Debug\net6.0\AreaRetangulo.csproj.CoreCompileInputs.cache
+C:\Users\lucio\OneDrive\Área de Trabalho\cSharpStudies\AreaRetangulo\AreaRetangulo\obj\Debug\net6.0\AreaRetangulo.dll
+C:\Users\lucio\OneDrive\Área de Trabalho\cSharpStudies\AreaRetangulo\AreaRetangulo\obj\Debug\net6.0\refint\AreaRetangulo.dll
+C:\Users\lucio\OneDrive\Área de Trabalho\cSharpStudies\AreaRetangulo\AreaRetangulo\obj\Debug\net6.0\AreaRetangulo.pdb
+C:\Users\lucio\OneDrive\Área de Trabalho\cSharpStudies\AreaRetangulo\AreaRetangulo\obj\Debug\net6.0\AreaRetangulo.genruntimeconfig.cache
+C:\Users\lucio\OneDrive\Área de Trabalho\cSharpStudies\AreaRetangulo\AreaRetangulo\obj\Debug\net6.0\ref\AreaRetangulo.dll

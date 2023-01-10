@@ -1,0 +1,15 @@
+C:\Users\lucio\OneDrive\Área de Trabalho\cSharpStudies\LeituraNomeIdade\LeituraNomeIdade\bin\Debug\net6.0\LeituraNomeIdade.exe
+C:\Users\lucio\OneDrive\Área de Trabalho\cSharpStudies\LeituraNomeIdade\LeituraNomeIdade\bin\Debug\net6.0\LeituraNomeIdade.deps.json
+C:\Users\lucio\OneDrive\Área de Trabalho\cSharpStudies\LeituraNomeIdade\LeituraNomeIdade\bin\Debug\net6.0\LeituraNomeIdade.runtimeconfig.json
+C:\Users\lucio\OneDrive\Área de Trabalho\cSharpStudies\LeituraNomeIdade\LeituraNomeIdade\bin\Debug\net6.0\LeituraNomeIdade.dll
+C:\Users\lucio\OneDrive\Área de Trabalho\cSharpStudies\LeituraNomeIdade\LeituraNomeIdade\bin\Debug\net6.0\LeituraNomeIdade.pdb
+C:\Users\lucio\OneDrive\Área de Trabalho\cSharpStudies\LeituraNomeIdade\LeituraNomeIdade\obj\Debug\net6.0\LeituraNomeIdade.csproj.AssemblyReference.cache
+C:\Users\lucio\OneDrive\Área de Trabalho\cSharpStudies\LeituraNomeIdade\LeituraNomeIdade\obj\Debug\net6.0\LeituraNomeIdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucio\OneDrive\Área de Trabalho\cSharpStudies\LeituraNomeIdade\LeituraNomeIdade\obj\Debug\net6.0\LeituraNomeIdade.AssemblyInfoInputs.cache
+C:\Users\lucio\OneDrive\Área de Trabalho\cSharpStudies\LeituraNomeIdade\LeituraNomeIdade\obj\Debug\net6.0\LeituraNomeIdade.AssemblyInfo.cs
+C:\Users\lucio\OneDrive\Área de Trabalho\cSharpStudies\LeituraNomeIdade\LeituraNomeIdade\obj\Debug\net6.0\LeituraNomeIdade.csproj.CoreCompileInputs.cache
+C:\Users\lucio\OneDrive\Área de Trabalho\cSharpStudies\LeituraNomeIdade\LeituraNomeIdade\obj\Debug\net6.0\LeituraNomeIdade.dll
+C:\Users\lucio\OneDrive\Área de Trabalho\cSharpStudies\LeituraNomeIdade\LeituraNomeIdade\obj\Debug\net6.0\refint\LeituraNomeIdade.dll
+C:\Users\lucio\OneDrive\Área de Trabalho\cSharpStudies\LeituraNomeIdade\LeituraNomeIdade\obj\Debug\net6.0\LeituraNomeIdade.pdb
+C:\Users\lucio\OneDrive\Área de Trabalho\cSharpStudies\LeituraNomeIdade\LeituraNomeIdade\obj\Debug\net6.0\LeituraNomeIdade.genruntimeconfig.cache
+C:\Users\lucio\OneDrive\Área de Trabalho\cSharpStudies\LeituraNomeIdade\LeituraNomeIdade\obj\Debug\net6.0\ref\LeituraNomeIdade.dll
