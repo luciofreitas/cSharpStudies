@@ -1,0 +1,15 @@
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\Area\Area\bin\Debug\net6.0\Area.exe
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\Area\Area\bin\Debug\net6.0\Area.deps.json
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\Area\Area\bin\Debug\net6.0\Area.runtimeconfig.json
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\Area\Area\bin\Debug\net6.0\Area.dll
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\Area\Area\bin\Debug\net6.0\Area.pdb
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\Area\Area\obj\Debug\net6.0\Area.csproj.AssemblyReference.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\Area\Area\obj\Debug\net6.0\Area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\Area\Area\obj\Debug\net6.0\Area.AssemblyInfoInputs.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\Area\Area\obj\Debug\net6.0\Area.AssemblyInfo.cs
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\Area\Area\obj\Debug\net6.0\Area.csproj.CoreCompileInputs.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\Area\Area\obj\Debug\net6.0\Area.dll
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\Area\Area\obj\Debug\net6.0\refint\Area.dll
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\Area\Area\obj\Debug\net6.0\Area.pdb
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\Area\Area\obj\Debug\net6.0\Area.genruntimeconfig.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\Area\Area\obj\Debug\net6.0\ref\Area.dll

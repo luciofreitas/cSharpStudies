@@ -1,0 +1,15 @@
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\Esfera\Esfera\bin\Debug\net6.0\Esfera.exe
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\Esfera\Esfera\bin\Debug\net6.0\Esfera.deps.json
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\Esfera\Esfera\bin\Debug\net6.0\Esfera.runtimeconfig.json
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\Esfera\Esfera\bin\Debug\net6.0\Esfera.dll
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\Esfera\Esfera\bin\Debug\net6.0\Esfera.pdb
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\Esfera\Esfera\obj\Debug\net6.0\Esfera.csproj.AssemblyReference.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\Esfera\Esfera\obj\Debug\net6.0\Esfera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\Esfera\Esfera\obj\Debug\net6.0\Esfera.AssemblyInfoInputs.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\Esfera\Esfera\obj\Debug\net6.0\Esfera.AssemblyInfo.cs
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\Esfera\Esfera\obj\Debug\net6.0\Esfera.csproj.CoreCompileInputs.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\Esfera\Esfera\obj\Debug\net6.0\Esfera.dll
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\Esfera\Esfera\obj\Debug\net6.0\refint\Esfera.dll
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\Esfera\Esfera\obj\Debug\net6.0\Esfera.pdb
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\Esfera\Esfera\obj\Debug\net6.0\Esfera.genruntimeconfig.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\Esfera\Esfera\obj\Debug\net6.0\ref\Esfera.dll
