@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lucio\\OneDrive\\Área de Trabalho\\cSharpStudies\\Salario\\Salario\\Salario.csproj",
+      "projectUniqueName": "C:\\Users\\lucio\\OneDrive\\Documentos\\gitProjects\\c# estudo\\Salario\\Salario\\Salario.csproj",
       "projectName": "Salario",
-      "projectPath": "C:\\Users\\lucio\\OneDrive\\Área de Trabalho\\cSharpStudies\\Salario\\Salario\\Salario.csproj",
+      "projectPath": "C:\\Users\\lucio\\OneDrive\\Documentos\\gitProjects\\c# estudo\\Salario\\Salario\\Salario.csproj",
       "packagesPath": "C:\\Users\\lucio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lucio\\OneDrive\\Área de Trabalho\\cSharpStudies\\Salario\\Salario\\obj\\",
+      "outputPath": "C:\\Users\\lucio\\OneDrive\\Documentos\\gitProjects\\c# estudo\\Salario\\Salario\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

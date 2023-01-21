@@ -1,0 +1,15 @@
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\Lanche\Lanche\bin\Debug\net6.0\Lanche.exe
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\Lanche\Lanche\bin\Debug\net6.0\Lanche.deps.json
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\Lanche\Lanche\bin\Debug\net6.0\Lanche.runtimeconfig.json
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\Lanche\Lanche\bin\Debug\net6.0\Lanche.dll
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\Lanche\Lanche\bin\Debug\net6.0\Lanche.pdb
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\Lanche\Lanche\obj\Debug\net6.0\Lanche.csproj.AssemblyReference.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\Lanche\Lanche\obj\Debug\net6.0\Lanche.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\Lanche\Lanche\obj\Debug\net6.0\Lanche.AssemblyInfoInputs.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\Lanche\Lanche\obj\Debug\net6.0\Lanche.AssemblyInfo.cs
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\Lanche\Lanche\obj\Debug\net6.0\Lanche.csproj.CoreCompileInputs.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\Lanche\Lanche\obj\Debug\net6.0\Lanche.dll
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\Lanche\Lanche\obj\Debug\net6.0\refint\Lanche.dll
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\Lanche\Lanche\obj\Debug\net6.0\Lanche.pdb
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\Lanche\Lanche\obj\Debug\net6.0\Lanche.genruntimeconfig.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\Lanche\Lanche\obj\Debug\net6.0\ref\Lanche.dll

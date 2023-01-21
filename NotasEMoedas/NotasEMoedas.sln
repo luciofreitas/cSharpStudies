@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotasEMoedas", "NotasEMoedas\NotasEMoedas.csproj", "{30602408-CB79-410B-A01C-8D365B083F89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30602408-CB79-410B-A01C-8D365B083F89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30602408-CB79-410B-A01C-8D365B083F89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30602408-CB79-410B-A01C-8D365B083F89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30602408-CB79-410B-A01C-8D365B083F89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14442E58-DCF7-4B9A-8E75-BA152FE00AA3}
+	EndGlobalSection
+EndGlobal

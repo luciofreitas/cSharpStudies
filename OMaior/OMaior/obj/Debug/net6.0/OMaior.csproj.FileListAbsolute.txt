@@ -1,0 +1,15 @@
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\OMaior\OMaior\bin\Debug\net6.0\OMaior.exe
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\OMaior\OMaior\bin\Debug\net6.0\OMaior.deps.json
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\OMaior\OMaior\bin\Debug\net6.0\OMaior.runtimeconfig.json
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\OMaior\OMaior\bin\Debug\net6.0\OMaior.dll
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\OMaior\OMaior\bin\Debug\net6.0\OMaior.pdb
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\OMaior\OMaior\obj\Debug\net6.0\OMaior.csproj.AssemblyReference.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\OMaior\OMaior\obj\Debug\net6.0\OMaior.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\OMaior\OMaior\obj\Debug\net6.0\OMaior.AssemblyInfoInputs.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\OMaior\OMaior\obj\Debug\net6.0\OMaior.AssemblyInfo.cs
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\OMaior\OMaior\obj\Debug\net6.0\OMaior.csproj.CoreCompileInputs.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\OMaior\OMaior\obj\Debug\net6.0\OMaior.dll
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\OMaior\OMaior\obj\Debug\net6.0\refint\OMaior.dll
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\OMaior\OMaior\obj\Debug\net6.0\OMaior.pdb
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\OMaior\OMaior\obj\Debug\net6.0\OMaior.genruntimeconfig.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\OMaior\OMaior\obj\Debug\net6.0\ref\OMaior.dll

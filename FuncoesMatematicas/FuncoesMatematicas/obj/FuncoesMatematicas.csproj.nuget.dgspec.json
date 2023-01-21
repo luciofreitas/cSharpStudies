@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucio\\OneDrive\\Área de Trabalho\\cSharpStudies\\FuncoesMatematicas\\FuncoesMatematicas\\FuncoesMatematicas.csproj": {}
+    "C:\\Users\\lucio\\OneDrive\\Documentos\\gitProjects\\c# estudo\\FuncoesMatematicas\\FuncoesMatematicas\\FuncoesMatematicas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucio\\OneDrive\\Área de Trabalho\\cSharpStudies\\FuncoesMatematicas\\FuncoesMatematicas\\FuncoesMatematicas.csproj": {
+    "C:\\Users\\lucio\\OneDrive\\Documentos\\gitProjects\\c# estudo\\FuncoesMatematicas\\FuncoesMatematicas\\FuncoesMatematicas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucio\\OneDrive\\Área de Trabalho\\cSharpStudies\\FuncoesMatematicas\\FuncoesMatematicas\\FuncoesMatematicas.csproj",
+        "projectUniqueName": "C:\\Users\\lucio\\OneDrive\\Documentos\\gitProjects\\c# estudo\\FuncoesMatematicas\\FuncoesMatematicas\\FuncoesMatematicas.csproj",
         "projectName": "FuncoesMatematicas",
-        "projectPath": "C:\\Users\\lucio\\OneDrive\\Área de Trabalho\\cSharpStudies\\FuncoesMatematicas\\FuncoesMatematicas\\FuncoesMatematicas.csproj",
+        "projectPath": "C:\\Users\\lucio\\OneDrive\\Documentos\\gitProjects\\c# estudo\\FuncoesMatematicas\\FuncoesMatematicas\\FuncoesMatematicas.csproj",
         "packagesPath": "C:\\Users\\lucio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucio\\OneDrive\\Área de Trabalho\\cSharpStudies\\FuncoesMatematicas\\FuncoesMatematicas\\obj\\",
+        "outputPath": "C:\\Users\\lucio\\OneDrive\\Documentos\\gitProjects\\c# estudo\\FuncoesMatematicas\\FuncoesMatematicas\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

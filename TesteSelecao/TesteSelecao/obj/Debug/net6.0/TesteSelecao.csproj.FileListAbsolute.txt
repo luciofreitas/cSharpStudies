@@ -1,0 +1,15 @@
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\TesteSelecao\TesteSelecao\bin\Debug\net6.0\TesteSelecao.exe
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\TesteSelecao\TesteSelecao\bin\Debug\net6.0\TesteSelecao.deps.json
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\TesteSelecao\TesteSelecao\bin\Debug\net6.0\TesteSelecao.runtimeconfig.json
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\TesteSelecao\TesteSelecao\bin\Debug\net6.0\TesteSelecao.dll
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\TesteSelecao\TesteSelecao\bin\Debug\net6.0\TesteSelecao.pdb
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\TesteSelecao\TesteSelecao\obj\Debug\net6.0\TesteSelecao.csproj.AssemblyReference.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\TesteSelecao\TesteSelecao\obj\Debug\net6.0\TesteSelecao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\TesteSelecao\TesteSelecao\obj\Debug\net6.0\TesteSelecao.AssemblyInfoInputs.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\TesteSelecao\TesteSelecao\obj\Debug\net6.0\TesteSelecao.AssemblyInfo.cs
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\TesteSelecao\TesteSelecao\obj\Debug\net6.0\TesteSelecao.csproj.CoreCompileInputs.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\TesteSelecao\TesteSelecao\obj\Debug\net6.0\TesteSelecao.dll
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\TesteSelecao\TesteSelecao\obj\Debug\net6.0\refint\TesteSelecao.dll
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\TesteSelecao\TesteSelecao\obj\Debug\net6.0\TesteSelecao.pdb
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\TesteSelecao\TesteSelecao\obj\Debug\net6.0\TesteSelecao.genruntimeconfig.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\TesteSelecao\TesteSelecao\obj\Debug\net6.0\ref\TesteSelecao.dll

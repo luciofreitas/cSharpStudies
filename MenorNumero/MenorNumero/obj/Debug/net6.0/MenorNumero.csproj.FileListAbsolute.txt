@@ -1,0 +1,15 @@
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MenorNumero\MenorNumero\bin\Debug\net6.0\MenorNumero.exe
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MenorNumero\MenorNumero\bin\Debug\net6.0\MenorNumero.deps.json
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MenorNumero\MenorNumero\bin\Debug\net6.0\MenorNumero.runtimeconfig.json
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MenorNumero\MenorNumero\bin\Debug\net6.0\MenorNumero.dll
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MenorNumero\MenorNumero\bin\Debug\net6.0\MenorNumero.pdb
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MenorNumero\MenorNumero\obj\Debug\net6.0\MenorNumero.csproj.AssemblyReference.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MenorNumero\MenorNumero\obj\Debug\net6.0\MenorNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MenorNumero\MenorNumero\obj\Debug\net6.0\MenorNumero.AssemblyInfoInputs.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MenorNumero\MenorNumero\obj\Debug\net6.0\MenorNumero.AssemblyInfo.cs
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MenorNumero\MenorNumero\obj\Debug\net6.0\MenorNumero.csproj.CoreCompileInputs.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MenorNumero\MenorNumero\obj\Debug\net6.0\MenorNumero.dll
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MenorNumero\MenorNumero\obj\Debug\net6.0\refint\MenorNumero.dll
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MenorNumero\MenorNumero\obj\Debug\net6.0\MenorNumero.pdb
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MenorNumero\MenorNumero\obj\Debug\net6.0\MenorNumero.genruntimeconfig.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MenorNumero\MenorNumero\obj\Debug\net6.0\ref\MenorNumero.dll
