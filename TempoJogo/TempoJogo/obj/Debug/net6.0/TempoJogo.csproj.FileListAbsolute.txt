@@ -1,0 +1,15 @@
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\TempoJogo\TempoJogo\bin\Debug\net6.0\TempoJogo.exe
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\TempoJogo\TempoJogo\bin\Debug\net6.0\TempoJogo.deps.json
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\TempoJogo\TempoJogo\bin\Debug\net6.0\TempoJogo.runtimeconfig.json
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\TempoJogo\TempoJogo\bin\Debug\net6.0\TempoJogo.dll
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\TempoJogo\TempoJogo\bin\Debug\net6.0\TempoJogo.pdb
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\TempoJogo\TempoJogo\obj\Debug\net6.0\TempoJogo.csproj.AssemblyReference.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\TempoJogo\TempoJogo\obj\Debug\net6.0\TempoJogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\TempoJogo\TempoJogo\obj\Debug\net6.0\TempoJogo.AssemblyInfoInputs.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\TempoJogo\TempoJogo\obj\Debug\net6.0\TempoJogo.AssemblyInfo.cs
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\TempoJogo\TempoJogo\obj\Debug\net6.0\TempoJogo.csproj.CoreCompileInputs.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\TempoJogo\TempoJogo\obj\Debug\net6.0\TempoJogo.dll
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\TempoJogo\TempoJogo\obj\Debug\net6.0\refint\TempoJogo.dll
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\TempoJogo\TempoJogo\obj\Debug\net6.0\TempoJogo.pdb
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\TempoJogo\TempoJogo\obj\Debug\net6.0\TempoJogo.genruntimeconfig.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\TempoJogo\TempoJogo\obj\Debug\net6.0\ref\TempoJogo.dll
