@@ -1,0 +1,15 @@
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\whileSwitchTipoCombustivel\whileSwitchTipoCombustivel\bin\Debug\net6.0\whileSwitchTipoCombustivel.exe
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\whileSwitchTipoCombustivel\whileSwitchTipoCombustivel\bin\Debug\net6.0\whileSwitchTipoCombustivel.deps.json
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\whileSwitchTipoCombustivel\whileSwitchTipoCombustivel\bin\Debug\net6.0\whileSwitchTipoCombustivel.runtimeconfig.json
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\whileSwitchTipoCombustivel\whileSwitchTipoCombustivel\bin\Debug\net6.0\whileSwitchTipoCombustivel.dll
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\whileSwitchTipoCombustivel\whileSwitchTipoCombustivel\bin\Debug\net6.0\whileSwitchTipoCombustivel.pdb
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\whileSwitchTipoCombustivel\whileSwitchTipoCombustivel\obj\Debug\net6.0\whileSwitchTipoCombustivel.csproj.AssemblyReference.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\whileSwitchTipoCombustivel\whileSwitchTipoCombustivel\obj\Debug\net6.0\whileSwitchTipoCombustivel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\whileSwitchTipoCombustivel\whileSwitchTipoCombustivel\obj\Debug\net6.0\whileSwitchTipoCombustivel.AssemblyInfoInputs.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\whileSwitchTipoCombustivel\whileSwitchTipoCombustivel\obj\Debug\net6.0\whileSwitchTipoCombustivel.AssemblyInfo.cs
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\whileSwitchTipoCombustivel\whileSwitchTipoCombustivel\obj\Debug\net6.0\whileSwitchTipoCombustivel.csproj.CoreCompileInputs.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\whileSwitchTipoCombustivel\whileSwitchTipoCombustivel\obj\Debug\net6.0\whileSwitchTipoCombustivel.dll
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\whileSwitchTipoCombustivel\whileSwitchTipoCombustivel\obj\Debug\net6.0\refint\whileSwitchTipoCombustivel.dll
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\whileSwitchTipoCombustivel\whileSwitchTipoCombustivel\obj\Debug\net6.0\whileSwitchTipoCombustivel.pdb
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\whileSwitchTipoCombustivel\whileSwitchTipoCombustivel\obj\Debug\net6.0\whileSwitchTipoCombustivel.genruntimeconfig.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\whileSwitchTipoCombustivel\whileSwitchTipoCombustivel\obj\Debug\net6.0\ref\whileSwitchTipoCombustivel.dll

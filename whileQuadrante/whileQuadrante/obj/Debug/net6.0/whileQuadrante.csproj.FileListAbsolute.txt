@@ -1,0 +1,15 @@
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\whileQuadrante\whileQuadrante\bin\Debug\net6.0\whileQuadrante.exe
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\whileQuadrante\whileQuadrante\bin\Debug\net6.0\whileQuadrante.deps.json
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\whileQuadrante\whileQuadrante\bin\Debug\net6.0\whileQuadrante.runtimeconfig.json
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\whileQuadrante\whileQuadrante\bin\Debug\net6.0\whileQuadrante.dll
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\whileQuadrante\whileQuadrante\bin\Debug\net6.0\whileQuadrante.pdb
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\whileQuadrante\whileQuadrante\obj\Debug\net6.0\whileQuadrante.csproj.AssemblyReference.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\whileQuadrante\whileQuadrante\obj\Debug\net6.0\whileQuadrante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\whileQuadrante\whileQuadrante\obj\Debug\net6.0\whileQuadrante.AssemblyInfoInputs.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\whileQuadrante\whileQuadrante\obj\Debug\net6.0\whileQuadrante.AssemblyInfo.cs
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\whileQuadrante\whileQuadrante\obj\Debug\net6.0\whileQuadrante.csproj.CoreCompileInputs.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\whileQuadrante\whileQuadrante\obj\Debug\net6.0\whileQuadrante.dll
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\whileQuadrante\whileQuadrante\obj\Debug\net6.0\refint\whileQuadrante.dll
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\whileQuadrante\whileQuadrante\obj\Debug\net6.0\whileQuadrante.pdb
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\whileQuadrante\whileQuadrante\obj\Debug\net6.0\whileQuadrante.genruntimeconfig.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\whileQuadrante\whileQuadrante\obj\Debug\net6.0\ref\whileQuadrante.dll

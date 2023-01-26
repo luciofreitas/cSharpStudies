@@ -1,0 +1,15 @@
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\ValidacaoNota\ValidacaoNota\bin\Debug\net6.0\ValidacaoNota.exe
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\ValidacaoNota\ValidacaoNota\bin\Debug\net6.0\ValidacaoNota.deps.json
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\ValidacaoNota\ValidacaoNota\bin\Debug\net6.0\ValidacaoNota.runtimeconfig.json
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\ValidacaoNota\ValidacaoNota\bin\Debug\net6.0\ValidacaoNota.dll
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\ValidacaoNota\ValidacaoNota\bin\Debug\net6.0\ValidacaoNota.pdb
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\ValidacaoNota\ValidacaoNota\obj\Debug\net6.0\ValidacaoNota.csproj.AssemblyReference.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\ValidacaoNota\ValidacaoNota\obj\Debug\net6.0\ValidacaoNota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\ValidacaoNota\ValidacaoNota\obj\Debug\net6.0\ValidacaoNota.AssemblyInfoInputs.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\ValidacaoNota\ValidacaoNota\obj\Debug\net6.0\ValidacaoNota.AssemblyInfo.cs
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\ValidacaoNota\ValidacaoNota\obj\Debug\net6.0\ValidacaoNota.csproj.CoreCompileInputs.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\ValidacaoNota\ValidacaoNota\obj\Debug\net6.0\ValidacaoNota.dll
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\ValidacaoNota\ValidacaoNota\obj\Debug\net6.0\refint\ValidacaoNota.dll
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\ValidacaoNota\ValidacaoNota\obj\Debug\net6.0\ValidacaoNota.pdb
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\ValidacaoNota\ValidacaoNota\obj\Debug\net6.0\ValidacaoNota.genruntimeconfig.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\ValidacaoNota\ValidacaoNota\obj\Debug\net6.0\ref\ValidacaoNota.dll

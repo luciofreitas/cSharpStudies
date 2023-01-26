@@ -1,0 +1,15 @@
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MediaIdade\MediaIdade\bin\Debug\net6.0\MediaIdade.exe
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MediaIdade\MediaIdade\bin\Debug\net6.0\MediaIdade.deps.json
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MediaIdade\MediaIdade\bin\Debug\net6.0\MediaIdade.runtimeconfig.json
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MediaIdade\MediaIdade\bin\Debug\net6.0\MediaIdade.dll
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MediaIdade\MediaIdade\bin\Debug\net6.0\MediaIdade.pdb
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MediaIdade\MediaIdade\obj\Debug\net6.0\MediaIdade.csproj.AssemblyReference.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MediaIdade\MediaIdade\obj\Debug\net6.0\MediaIdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MediaIdade\MediaIdade\obj\Debug\net6.0\MediaIdade.AssemblyInfoInputs.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MediaIdade\MediaIdade\obj\Debug\net6.0\MediaIdade.AssemblyInfo.cs
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MediaIdade\MediaIdade\obj\Debug\net6.0\MediaIdade.csproj.CoreCompileInputs.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MediaIdade\MediaIdade\obj\Debug\net6.0\MediaIdade.dll
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MediaIdade\MediaIdade\obj\Debug\net6.0\refint\MediaIdade.dll
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MediaIdade\MediaIdade\obj\Debug\net6.0\MediaIdade.pdb
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MediaIdade\MediaIdade\obj\Debug\net6.0\MediaIdade.genruntimeconfig.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MediaIdade\MediaIdade\obj\Debug\net6.0\ref\MediaIdade.dll
