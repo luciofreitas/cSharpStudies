@@ -1,0 +1,15 @@
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\vetorMediaIdadeEMenorIdade\vetorMediaIdadeEMenorIdade\bin\Debug\net6.0\vetorMediaIdadeEMenorIdade.exe
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\vetorMediaIdadeEMenorIdade\vetorMediaIdadeEMenorIdade\bin\Debug\net6.0\vetorMediaIdadeEMenorIdade.deps.json
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\vetorMediaIdadeEMenorIdade\vetorMediaIdadeEMenorIdade\bin\Debug\net6.0\vetorMediaIdadeEMenorIdade.runtimeconfig.json
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\vetorMediaIdadeEMenorIdade\vetorMediaIdadeEMenorIdade\bin\Debug\net6.0\vetorMediaIdadeEMenorIdade.dll
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\vetorMediaIdadeEMenorIdade\vetorMediaIdadeEMenorIdade\bin\Debug\net6.0\vetorMediaIdadeEMenorIdade.pdb
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\vetorMediaIdadeEMenorIdade\vetorMediaIdadeEMenorIdade\obj\Debug\net6.0\vetorMediaIdadeEMenorIdade.csproj.AssemblyReference.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\vetorMediaIdadeEMenorIdade\vetorMediaIdadeEMenorIdade\obj\Debug\net6.0\vetorMediaIdadeEMenorIdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\vetorMediaIdadeEMenorIdade\vetorMediaIdadeEMenorIdade\obj\Debug\net6.0\vetorMediaIdadeEMenorIdade.AssemblyInfoInputs.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\vetorMediaIdadeEMenorIdade\vetorMediaIdadeEMenorIdade\obj\Debug\net6.0\vetorMediaIdadeEMenorIdade.AssemblyInfo.cs
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\vetorMediaIdadeEMenorIdade\vetorMediaIdadeEMenorIdade\obj\Debug\net6.0\vetorMediaIdadeEMenorIdade.csproj.CoreCompileInputs.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\vetorMediaIdadeEMenorIdade\vetorMediaIdadeEMenorIdade\obj\Debug\net6.0\vetorMediaIdadeEMenorIdade.dll
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\vetorMediaIdadeEMenorIdade\vetorMediaIdadeEMenorIdade\obj\Debug\net6.0\refint\vetorMediaIdadeEMenorIdade.dll
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\vetorMediaIdadeEMenorIdade\vetorMediaIdadeEMenorIdade\obj\Debug\net6.0\vetorMediaIdadeEMenorIdade.pdb
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\vetorMediaIdadeEMenorIdade\vetorMediaIdadeEMenorIdade\obj\Debug\net6.0\vetorMediaIdadeEMenorIdade.genruntimeconfig.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\vetorMediaIdadeEMenorIdade\vetorMediaIdadeEMenorIdade\obj\Debug\net6.0\ref\vetorMediaIdadeEMenorIdade.dll

@@ -1,0 +1,15 @@
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\foreachNomesLidos\foreachNomesLidos\bin\Debug\net6.0\foreachNomesLidos.exe
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\foreachNomesLidos\foreachNomesLidos\bin\Debug\net6.0\foreachNomesLidos.deps.json
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\foreachNomesLidos\foreachNomesLidos\bin\Debug\net6.0\foreachNomesLidos.runtimeconfig.json
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\foreachNomesLidos\foreachNomesLidos\bin\Debug\net6.0\foreachNomesLidos.dll
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\foreachNomesLidos\foreachNomesLidos\bin\Debug\net6.0\foreachNomesLidos.pdb
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\foreachNomesLidos\foreachNomesLidos\obj\Debug\net6.0\foreachNomesLidos.csproj.AssemblyReference.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\foreachNomesLidos\foreachNomesLidos\obj\Debug\net6.0\foreachNomesLidos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\foreachNomesLidos\foreachNomesLidos\obj\Debug\net6.0\foreachNomesLidos.AssemblyInfoInputs.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\foreachNomesLidos\foreachNomesLidos\obj\Debug\net6.0\foreachNomesLidos.AssemblyInfo.cs
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\foreachNomesLidos\foreachNomesLidos\obj\Debug\net6.0\foreachNomesLidos.csproj.CoreCompileInputs.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\foreachNomesLidos\foreachNomesLidos\obj\Debug\net6.0\foreachNomesLidos.dll
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\foreachNomesLidos\foreachNomesLidos\obj\Debug\net6.0\refint\foreachNomesLidos.dll
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\foreachNomesLidos\foreachNomesLidos\obj\Debug\net6.0\foreachNomesLidos.pdb
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\foreachNomesLidos\foreachNomesLidos\obj\Debug\net6.0\foreachNomesLidos.genruntimeconfig.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\foreachNomesLidos\foreachNomesLidos\obj\Debug\net6.0\ref\foreachNomesLidos.dll

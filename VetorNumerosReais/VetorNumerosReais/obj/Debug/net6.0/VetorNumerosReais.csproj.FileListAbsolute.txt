@@ -1,0 +1,15 @@
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\VetorNumerosReais\VetorNumerosReais\bin\Debug\net6.0\VetorNumerosReais.exe
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\VetorNumerosReais\VetorNumerosReais\bin\Debug\net6.0\VetorNumerosReais.deps.json
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\VetorNumerosReais\VetorNumerosReais\bin\Debug\net6.0\VetorNumerosReais.runtimeconfig.json
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\VetorNumerosReais\VetorNumerosReais\bin\Debug\net6.0\VetorNumerosReais.dll
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\VetorNumerosReais\VetorNumerosReais\bin\Debug\net6.0\VetorNumerosReais.pdb
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\VetorNumerosReais\VetorNumerosReais\obj\Debug\net6.0\VetorNumerosReais.csproj.AssemblyReference.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\VetorNumerosReais\VetorNumerosReais\obj\Debug\net6.0\VetorNumerosReais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\VetorNumerosReais\VetorNumerosReais\obj\Debug\net6.0\VetorNumerosReais.AssemblyInfoInputs.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\VetorNumerosReais\VetorNumerosReais\obj\Debug\net6.0\VetorNumerosReais.AssemblyInfo.cs
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\VetorNumerosReais\VetorNumerosReais\obj\Debug\net6.0\VetorNumerosReais.csproj.CoreCompileInputs.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\VetorNumerosReais\VetorNumerosReais\obj\Debug\net6.0\VetorNumerosReais.dll
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\VetorNumerosReais\VetorNumerosReais\obj\Debug\net6.0\refint\VetorNumerosReais.dll
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\VetorNumerosReais\VetorNumerosReais\obj\Debug\net6.0\VetorNumerosReais.pdb
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\VetorNumerosReais\VetorNumerosReais\obj\Debug\net6.0\VetorNumerosReais.genruntimeconfig.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\VetorNumerosReais\VetorNumerosReais\obj\Debug\net6.0\ref\VetorNumerosReais.dll

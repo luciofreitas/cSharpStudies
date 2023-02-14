@@ -1,0 +1,15 @@
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\forTabuada\forTabuada\bin\Debug\net6.0\forTabuada.exe
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\forTabuada\forTabuada\bin\Debug\net6.0\forTabuada.deps.json
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\forTabuada\forTabuada\bin\Debug\net6.0\forTabuada.runtimeconfig.json
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\forTabuada\forTabuada\bin\Debug\net6.0\forTabuada.dll
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\forTabuada\forTabuada\bin\Debug\net6.0\forTabuada.pdb
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\forTabuada\forTabuada\obj\Debug\net6.0\forTabuada.csproj.AssemblyReference.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\forTabuada\forTabuada\obj\Debug\net6.0\forTabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\forTabuada\forTabuada\obj\Debug\net6.0\forTabuada.AssemblyInfoInputs.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\forTabuada\forTabuada\obj\Debug\net6.0\forTabuada.AssemblyInfo.cs
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\forTabuada\forTabuada\obj\Debug\net6.0\forTabuada.csproj.CoreCompileInputs.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\forTabuada\forTabuada\obj\Debug\net6.0\forTabuada.dll
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\forTabuada\forTabuada\obj\Debug\net6.0\refint\forTabuada.dll
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\forTabuada\forTabuada\obj\Debug\net6.0\forTabuada.pdb
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\forTabuada\forTabuada\obj\Debug\net6.0\forTabuada.genruntimeconfig.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\forTabuada\forTabuada\obj\Debug\net6.0\ref\forTabuada.dll

@@ -1,0 +1,15 @@
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\forN\forN\bin\Debug\net6.0\forN.exe
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\forN\forN\bin\Debug\net6.0\forN.deps.json
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\forN\forN\bin\Debug\net6.0\forN.runtimeconfig.json
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\forN\forN\bin\Debug\net6.0\forN.dll
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\forN\forN\bin\Debug\net6.0\forN.pdb
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\forN\forN\obj\Debug\net6.0\forN.csproj.AssemblyReference.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\forN\forN\obj\Debug\net6.0\forN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\forN\forN\obj\Debug\net6.0\forN.AssemblyInfoInputs.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\forN\forN\obj\Debug\net6.0\forN.AssemblyInfo.cs
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\forN\forN\obj\Debug\net6.0\forN.csproj.CoreCompileInputs.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\forN\forN\obj\Debug\net6.0\forN.dll
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\forN\forN\obj\Debug\net6.0\refint\forN.dll
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\forN\forN\obj\Debug\net6.0\forN.pdb
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\forN\forN\obj\Debug\net6.0\forN.genruntimeconfig.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\forN\forN\obj\Debug\net6.0\ref\forN.dll
