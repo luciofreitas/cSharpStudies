@@ -10,7 +10,7 @@ namespace forSomaImparesConsecutivos
         {
             int x, y, min, max, soma = 0;
 
-            Console.WriteLine("Informe os numeres");
+            Console.WriteLine("Informe os numeros");
             string[] vet = Console.ReadLine().Split(' ');
             x = int.Parse(vet[0]);
             y = int.Parse(vet[1]);
@@ -33,7 +33,7 @@ namespace forSomaImparesConsecutivos
                 }
             }
 
-            Console.WriteLine($"");
+            Console.WriteLine($"A soma dos numeros impares entre eles é igual a {soma}");
         }
     }
 }

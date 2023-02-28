@@ -1,0 +1,15 @@
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MatrizSomaLinha\MatrizSomaLinha\bin\Debug\net6.0\MatrizMaiorElemento.exe
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MatrizSomaLinha\MatrizSomaLinha\bin\Debug\net6.0\MatrizMaiorElemento.deps.json
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MatrizSomaLinha\MatrizSomaLinha\bin\Debug\net6.0\MatrizMaiorElemento.runtimeconfig.json
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MatrizSomaLinha\MatrizSomaLinha\bin\Debug\net6.0\MatrizMaiorElemento.dll
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MatrizSomaLinha\MatrizSomaLinha\bin\Debug\net6.0\MatrizMaiorElemento.pdb
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MatrizSomaLinha\MatrizSomaLinha\obj\Debug\net6.0\MatrizMaiorElemento.csproj.AssemblyReference.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MatrizSomaLinha\MatrizSomaLinha\obj\Debug\net6.0\MatrizMaiorElemento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MatrizSomaLinha\MatrizSomaLinha\obj\Debug\net6.0\MatrizMaiorElemento.AssemblyInfoInputs.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MatrizSomaLinha\MatrizSomaLinha\obj\Debug\net6.0\MatrizMaiorElemento.AssemblyInfo.cs
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MatrizSomaLinha\MatrizSomaLinha\obj\Debug\net6.0\MatrizMaiorElemento.csproj.CoreCompileInputs.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MatrizSomaLinha\MatrizSomaLinha\obj\Debug\net6.0\MatrizMaiorElemento.dll
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MatrizSomaLinha\MatrizSomaLinha\obj\Debug\net6.0\refint\MatrizMaiorElemento.dll
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MatrizSomaLinha\MatrizSomaLinha\obj\Debug\net6.0\MatrizMaiorElemento.pdb
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MatrizSomaLinha\MatrizSomaLinha\obj\Debug\net6.0\MatrizMaiorElemento.genruntimeconfig.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MatrizSomaLinha\MatrizSomaLinha\obj\Debug\net6.0\ref\MatrizMaiorElemento.dll

@@ -1,0 +1,15 @@
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MatrizSomaElementosAcimaDiagonal\MatrizSomaElementosAcimaDiagonal\bin\Debug\net6.0\MatrizSomaElementosAcimaDiagonal.exe
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MatrizSomaElementosAcimaDiagonal\MatrizSomaElementosAcimaDiagonal\bin\Debug\net6.0\MatrizSomaElementosAcimaDiagonal.deps.json
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MatrizSomaElementosAcimaDiagonal\MatrizSomaElementosAcimaDiagonal\bin\Debug\net6.0\MatrizSomaElementosAcimaDiagonal.runtimeconfig.json
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MatrizSomaElementosAcimaDiagonal\MatrizSomaElementosAcimaDiagonal\bin\Debug\net6.0\MatrizSomaElementosAcimaDiagonal.dll
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MatrizSomaElementosAcimaDiagonal\MatrizSomaElementosAcimaDiagonal\bin\Debug\net6.0\MatrizSomaElementosAcimaDiagonal.pdb
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MatrizSomaElementosAcimaDiagonal\MatrizSomaElementosAcimaDiagonal\obj\Debug\net6.0\MatrizSomaElementosAcimaDiagonal.csproj.AssemblyReference.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MatrizSomaElementosAcimaDiagonal\MatrizSomaElementosAcimaDiagonal\obj\Debug\net6.0\MatrizSomaElementosAcimaDiagonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MatrizSomaElementosAcimaDiagonal\MatrizSomaElementosAcimaDiagonal\obj\Debug\net6.0\MatrizSomaElementosAcimaDiagonal.AssemblyInfoInputs.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MatrizSomaElementosAcimaDiagonal\MatrizSomaElementosAcimaDiagonal\obj\Debug\net6.0\MatrizSomaElementosAcimaDiagonal.AssemblyInfo.cs
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MatrizSomaElementosAcimaDiagonal\MatrizSomaElementosAcimaDiagonal\obj\Debug\net6.0\MatrizSomaElementosAcimaDiagonal.csproj.CoreCompileInputs.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MatrizSomaElementosAcimaDiagonal\MatrizSomaElementosAcimaDiagonal\obj\Debug\net6.0\MatrizSomaElementosAcimaDiagonal.dll
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MatrizSomaElementosAcimaDiagonal\MatrizSomaElementosAcimaDiagonal\obj\Debug\net6.0\refint\MatrizSomaElementosAcimaDiagonal.dll
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MatrizSomaElementosAcimaDiagonal\MatrizSomaElementosAcimaDiagonal\obj\Debug\net6.0\MatrizSomaElementosAcimaDiagonal.pdb
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MatrizSomaElementosAcimaDiagonal\MatrizSomaElementosAcimaDiagonal\obj\Debug\net6.0\MatrizSomaElementosAcimaDiagonal.genruntimeconfig.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MatrizSomaElementosAcimaDiagonal\MatrizSomaElementosAcimaDiagonal\obj\Debug\net6.0\ref\MatrizSomaElementosAcimaDiagonal.dll

@@ -1,0 +1,15 @@
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MatrizSomarDuasMatrizes\MatrizSomarDuasMatrizes\bin\Debug\net6.0\MatrizSomarDuasMatrizes.exe
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MatrizSomarDuasMatrizes\MatrizSomarDuasMatrizes\bin\Debug\net6.0\MatrizSomarDuasMatrizes.deps.json
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MatrizSomarDuasMatrizes\MatrizSomarDuasMatrizes\bin\Debug\net6.0\MatrizSomarDuasMatrizes.runtimeconfig.json
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MatrizSomarDuasMatrizes\MatrizSomarDuasMatrizes\bin\Debug\net6.0\MatrizSomarDuasMatrizes.dll
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MatrizSomarDuasMatrizes\MatrizSomarDuasMatrizes\bin\Debug\net6.0\MatrizSomarDuasMatrizes.pdb
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MatrizSomarDuasMatrizes\MatrizSomarDuasMatrizes\obj\Debug\net6.0\MatrizSomarDuasMatrizes.csproj.AssemblyReference.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MatrizSomarDuasMatrizes\MatrizSomarDuasMatrizes\obj\Debug\net6.0\MatrizSomarDuasMatrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MatrizSomarDuasMatrizes\MatrizSomarDuasMatrizes\obj\Debug\net6.0\MatrizSomarDuasMatrizes.AssemblyInfoInputs.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MatrizSomarDuasMatrizes\MatrizSomarDuasMatrizes\obj\Debug\net6.0\MatrizSomarDuasMatrizes.AssemblyInfo.cs
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MatrizSomarDuasMatrizes\MatrizSomarDuasMatrizes\obj\Debug\net6.0\MatrizSomarDuasMatrizes.csproj.CoreCompileInputs.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MatrizSomarDuasMatrizes\MatrizSomarDuasMatrizes\obj\Debug\net6.0\MatrizSomarDuasMatrizes.dll
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MatrizSomarDuasMatrizes\MatrizSomarDuasMatrizes\obj\Debug\net6.0\refint\MatrizSomarDuasMatrizes.dll
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MatrizSomarDuasMatrizes\MatrizSomarDuasMatrizes\obj\Debug\net6.0\MatrizSomarDuasMatrizes.pdb
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MatrizSomarDuasMatrizes\MatrizSomarDuasMatrizes\obj\Debug\net6.0\MatrizSomarDuasMatrizes.genruntimeconfig.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MatrizSomarDuasMatrizes\MatrizSomarDuasMatrizes\obj\Debug\net6.0\ref\MatrizSomarDuasMatrizes.dll

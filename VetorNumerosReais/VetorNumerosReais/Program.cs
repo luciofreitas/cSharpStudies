@@ -14,12 +14,13 @@ namespace VetorNumerosReais
             n = int.Parse(Console.ReadLine());
             vet = new int[n];
             string[] s = Console.ReadLine().Split(' ');
+            Console.WriteLine($"Os numeros pares digitados foram:");
             for (int i=0; i < n; i++)
             {
                 vet[i] = int.Parse(s[i]);
                 if (vet[i] % 2 == 0)
                 {
-                    Console.WriteLine($"Os numeros pares são: {vet[i]}");
+                    Console.Write($"{vet[i]}");
                     cont++;
                 }
 

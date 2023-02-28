@@ -1,0 +1,15 @@
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MatrizMostrarDiagonal\MatrizMostrarDiagonal\bin\Debug\net6.0\MatrizMostrarDiagonal.exe
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MatrizMostrarDiagonal\MatrizMostrarDiagonal\bin\Debug\net6.0\MatrizMostrarDiagonal.deps.json
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MatrizMostrarDiagonal\MatrizMostrarDiagonal\bin\Debug\net6.0\MatrizMostrarDiagonal.runtimeconfig.json
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MatrizMostrarDiagonal\MatrizMostrarDiagonal\bin\Debug\net6.0\MatrizMostrarDiagonal.dll
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MatrizMostrarDiagonal\MatrizMostrarDiagonal\bin\Debug\net6.0\MatrizMostrarDiagonal.pdb
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MatrizMostrarDiagonal\MatrizMostrarDiagonal\obj\Debug\net6.0\MatrizMostrarDiagonal.csproj.AssemblyReference.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MatrizMostrarDiagonal\MatrizMostrarDiagonal\obj\Debug\net6.0\MatrizMostrarDiagonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MatrizMostrarDiagonal\MatrizMostrarDiagonal\obj\Debug\net6.0\MatrizMostrarDiagonal.AssemblyInfoInputs.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MatrizMostrarDiagonal\MatrizMostrarDiagonal\obj\Debug\net6.0\MatrizMostrarDiagonal.AssemblyInfo.cs
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MatrizMostrarDiagonal\MatrizMostrarDiagonal\obj\Debug\net6.0\MatrizMostrarDiagonal.csproj.CoreCompileInputs.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MatrizMostrarDiagonal\MatrizMostrarDiagonal\obj\Debug\net6.0\MatrizMostrarDiagonal.dll
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MatrizMostrarDiagonal\MatrizMostrarDiagonal\obj\Debug\net6.0\refint\MatrizMostrarDiagonal.dll
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MatrizMostrarDiagonal\MatrizMostrarDiagonal\obj\Debug\net6.0\MatrizMostrarDiagonal.pdb
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MatrizMostrarDiagonal\MatrizMostrarDiagonal\obj\Debug\net6.0\MatrizMostrarDiagonal.genruntimeconfig.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\MatrizMostrarDiagonal\MatrizMostrarDiagonal\obj\Debug\net6.0\ref\MatrizMostrarDiagonal.dll

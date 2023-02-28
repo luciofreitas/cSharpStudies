@@ -1,0 +1,15 @@
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\Funcao\Funcao\bin\Debug\net6.0\Funcao.exe
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\Funcao\Funcao\bin\Debug\net6.0\Funcao.deps.json
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\Funcao\Funcao\bin\Debug\net6.0\Funcao.runtimeconfig.json
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\Funcao\Funcao\bin\Debug\net6.0\Funcao.dll
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\Funcao\Funcao\bin\Debug\net6.0\Funcao.pdb
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\Funcao\Funcao\obj\Debug\net6.0\Funcao.csproj.AssemblyReference.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\Funcao\Funcao\obj\Debug\net6.0\Funcao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\Funcao\Funcao\obj\Debug\net6.0\Funcao.AssemblyInfoInputs.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\Funcao\Funcao\obj\Debug\net6.0\Funcao.AssemblyInfo.cs
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\Funcao\Funcao\obj\Debug\net6.0\Funcao.csproj.CoreCompileInputs.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\Funcao\Funcao\obj\Debug\net6.0\Funcao.dll
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\Funcao\Funcao\obj\Debug\net6.0\refint\Funcao.dll
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\Funcao\Funcao\obj\Debug\net6.0\Funcao.pdb
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\Funcao\Funcao\obj\Debug\net6.0\Funcao.genruntimeconfig.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\Funcao\Funcao\obj\Debug\net6.0\ref\Funcao.dll
