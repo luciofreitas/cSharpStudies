@@ -1,0 +1,15 @@
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\while\while\bin\Debug\net6.0\while.exe
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\while\while\bin\Debug\net6.0\while.deps.json
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\while\while\bin\Debug\net6.0\while.runtimeconfig.json
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\while\while\bin\Debug\net6.0\while.dll
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\while\while\bin\Debug\net6.0\while.pdb
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\while\while\obj\Debug\net6.0\while.csproj.AssemblyReference.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\while\while\obj\Debug\net6.0\while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\while\while\obj\Debug\net6.0\while.AssemblyInfoInputs.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\while\while\obj\Debug\net6.0\while.AssemblyInfo.cs
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\while\while\obj\Debug\net6.0\while.csproj.CoreCompileInputs.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\while\while\obj\Debug\net6.0\while.dll
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\while\while\obj\Debug\net6.0\refint\while.dll
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\while\while\obj\Debug\net6.0\while.pdb
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\while\while\obj\Debug\net6.0\while.genruntimeconfig.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\while\while\obj\Debug\net6.0\ref\while.dll

@@ -1,0 +1,15 @@
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\Retangulo\Retangulo\bin\Debug\net6.0\Retangulo.exe
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\Retangulo\Retangulo\bin\Debug\net6.0\Retangulo.deps.json
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\Retangulo\Retangulo\bin\Debug\net6.0\Retangulo.runtimeconfig.json
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\Retangulo\Retangulo\bin\Debug\net6.0\Retangulo.dll
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\Retangulo\Retangulo\bin\Debug\net6.0\Retangulo.pdb
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\Retangulo\Retangulo\obj\Debug\net6.0\Retangulo.csproj.AssemblyReference.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\Retangulo\Retangulo\obj\Debug\net6.0\Retangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\Retangulo\Retangulo\obj\Debug\net6.0\Retangulo.AssemblyInfoInputs.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\Retangulo\Retangulo\obj\Debug\net6.0\Retangulo.AssemblyInfo.cs
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\Retangulo\Retangulo\obj\Debug\net6.0\Retangulo.csproj.CoreCompileInputs.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\Retangulo\Retangulo\obj\Debug\net6.0\Retangulo.dll
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\Retangulo\Retangulo\obj\Debug\net6.0\refint\Retangulo.dll
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\Retangulo\Retangulo\obj\Debug\net6.0\Retangulo.pdb
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\Retangulo\Retangulo\obj\Debug\net6.0\Retangulo.genruntimeconfig.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\Retangulo\Retangulo\obj\Debug\net6.0\ref\Retangulo.dll

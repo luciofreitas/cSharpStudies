@@ -1,0 +1,15 @@
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\SalarioMedio\SalarioMedio\bin\Debug\net6.0\SalarioMedio.exe
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\SalarioMedio\SalarioMedio\bin\Debug\net6.0\SalarioMedio.deps.json
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\SalarioMedio\SalarioMedio\bin\Debug\net6.0\SalarioMedio.runtimeconfig.json
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\SalarioMedio\SalarioMedio\bin\Debug\net6.0\SalarioMedio.dll
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\SalarioMedio\SalarioMedio\bin\Debug\net6.0\SalarioMedio.pdb
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\SalarioMedio\SalarioMedio\obj\Debug\net6.0\SalarioMedio.csproj.AssemblyReference.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\SalarioMedio\SalarioMedio\obj\Debug\net6.0\SalarioMedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\SalarioMedio\SalarioMedio\obj\Debug\net6.0\SalarioMedio.AssemblyInfoInputs.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\SalarioMedio\SalarioMedio\obj\Debug\net6.0\SalarioMedio.AssemblyInfo.cs
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\SalarioMedio\SalarioMedio\obj\Debug\net6.0\SalarioMedio.csproj.CoreCompileInputs.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\SalarioMedio\SalarioMedio\obj\Debug\net6.0\SalarioMedio.dll
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\SalarioMedio\SalarioMedio\obj\Debug\net6.0\refint\SalarioMedio.dll
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\SalarioMedio\SalarioMedio\obj\Debug\net6.0\SalarioMedio.pdb
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\SalarioMedio\SalarioMedio\obj\Debug\net6.0\SalarioMedio.genruntimeconfig.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\SalarioMedio\SalarioMedio\obj\Debug\net6.0\ref\SalarioMedio.dll

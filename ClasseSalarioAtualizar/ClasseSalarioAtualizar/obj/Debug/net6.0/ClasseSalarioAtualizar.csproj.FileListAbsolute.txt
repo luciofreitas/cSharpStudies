@@ -1,0 +1,15 @@
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\ClasseSalarioAtualizar\ClasseSalarioAtualizar\bin\Debug\net6.0\ClasseSalarioAtualizar.exe
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\ClasseSalarioAtualizar\ClasseSalarioAtualizar\bin\Debug\net6.0\ClasseSalarioAtualizar.deps.json
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\ClasseSalarioAtualizar\ClasseSalarioAtualizar\bin\Debug\net6.0\ClasseSalarioAtualizar.runtimeconfig.json
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\ClasseSalarioAtualizar\ClasseSalarioAtualizar\bin\Debug\net6.0\ClasseSalarioAtualizar.dll
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\ClasseSalarioAtualizar\ClasseSalarioAtualizar\bin\Debug\net6.0\ClasseSalarioAtualizar.pdb
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\ClasseSalarioAtualizar\ClasseSalarioAtualizar\obj\Debug\net6.0\ClasseSalarioAtualizar.csproj.AssemblyReference.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\ClasseSalarioAtualizar\ClasseSalarioAtualizar\obj\Debug\net6.0\ClasseSalarioAtualizar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\ClasseSalarioAtualizar\ClasseSalarioAtualizar\obj\Debug\net6.0\ClasseSalarioAtualizar.AssemblyInfoInputs.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\ClasseSalarioAtualizar\ClasseSalarioAtualizar\obj\Debug\net6.0\ClasseSalarioAtualizar.AssemblyInfo.cs
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\ClasseSalarioAtualizar\ClasseSalarioAtualizar\obj\Debug\net6.0\ClasseSalarioAtualizar.csproj.CoreCompileInputs.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\ClasseSalarioAtualizar\ClasseSalarioAtualizar\obj\Debug\net6.0\ClasseSalarioAtualizar.dll
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\ClasseSalarioAtualizar\ClasseSalarioAtualizar\obj\Debug\net6.0\refint\ClasseSalarioAtualizar.dll
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\ClasseSalarioAtualizar\ClasseSalarioAtualizar\obj\Debug\net6.0\ClasseSalarioAtualizar.pdb
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\ClasseSalarioAtualizar\ClasseSalarioAtualizar\obj\Debug\net6.0\ClasseSalarioAtualizar.genruntimeconfig.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\ClasseSalarioAtualizar\ClasseSalarioAtualizar\obj\Debug\net6.0\ref\ClasseSalarioAtualizar.dll

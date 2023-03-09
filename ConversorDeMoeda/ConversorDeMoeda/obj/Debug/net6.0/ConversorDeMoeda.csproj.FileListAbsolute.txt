@@ -1,0 +1,15 @@
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\ConversorDeMoeda\ConversorDeMoeda\bin\Debug\net6.0\ConversorDeMoeda.exe
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\ConversorDeMoeda\ConversorDeMoeda\bin\Debug\net6.0\ConversorDeMoeda.deps.json
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\ConversorDeMoeda\ConversorDeMoeda\bin\Debug\net6.0\ConversorDeMoeda.runtimeconfig.json
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\ConversorDeMoeda\ConversorDeMoeda\bin\Debug\net6.0\ConversorDeMoeda.dll
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\ConversorDeMoeda\ConversorDeMoeda\bin\Debug\net6.0\ConversorDeMoeda.pdb
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\ConversorDeMoeda\ConversorDeMoeda\obj\Debug\net6.0\ConversorDeMoeda.csproj.AssemblyReference.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\ConversorDeMoeda\ConversorDeMoeda\obj\Debug\net6.0\ConversorDeMoeda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\ConversorDeMoeda\ConversorDeMoeda\obj\Debug\net6.0\ConversorDeMoeda.AssemblyInfoInputs.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\ConversorDeMoeda\ConversorDeMoeda\obj\Debug\net6.0\ConversorDeMoeda.AssemblyInfo.cs
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\ConversorDeMoeda\ConversorDeMoeda\obj\Debug\net6.0\ConversorDeMoeda.csproj.CoreCompileInputs.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\ConversorDeMoeda\ConversorDeMoeda\obj\Debug\net6.0\ConversorDeMoeda.dll
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\ConversorDeMoeda\ConversorDeMoeda\obj\Debug\net6.0\refint\ConversorDeMoeda.dll
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\ConversorDeMoeda\ConversorDeMoeda\obj\Debug\net6.0\ConversorDeMoeda.pdb
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\ConversorDeMoeda\ConversorDeMoeda\obj\Debug\net6.0\ConversorDeMoeda.genruntimeconfig.cache
+C:\Users\lucio\OneDrive\Documentos\gitProjects\c# estudo\ConversorDeMoeda\ConversorDeMoeda\obj\Debug\net6.0\ref\ConversorDeMoeda.dll
